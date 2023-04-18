@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "591603b1-2be6-432d-a2b5-3999854a61ea"
+      }
+    },
+    "owner": "bagasjiwanta"
   }
 }
